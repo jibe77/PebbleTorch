@@ -1,0 +1,11 @@
+{
+    "media": [
+        {
+            "defName": "TORCH_ICON",
+            "type": "png",
+            "file": "images/torch_icon.png"
+        }
+    ],
+    "friendlyVersion": "VERSION",
+    "versionDefName": "APP_RESOURCES"
+}
